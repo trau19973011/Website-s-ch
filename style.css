@@ -1,0 +1,269 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.tong {
+	width: 1200px;
+	margin: auto;
+	background-color: #f0f0f0;
+	font-family: tahoma;
+}
+.header{
+	width: 1200px;
+}
+.banner-top {
+	width: 1200px;
+	height: 70px;
+	background-color: #103061;
+}
+.thongtin {
+	color: #666;
+	padding: 15px 30px;
+	overflow: hidden;
+}
+.thongtin .email {
+	width: 300px;
+	float: left;
+
+}
+.thongtin .taikhoan
+{
+	width: 530px;
+	float: right;
+	padding-left: 180px;
+	overflow: hidden;
+}
+
+.taikhoan a {
+	text-decoration: none;
+	color: #666;
+	float: left;
+	padding: 0px 5px;
+	border-right: 1px solid #CCC;
+	height: 20px;
+	display: inline-block;
+	line-height: 20px;
+}
+.menu-banner {
+	width: 1200px;
+	overflow: hidden;
+	padding-top: 30px;
+}
+.menu {
+	width: 300px;
+	float: left;
+	background-color: #FFFFFF;
+}
+.menu ul{
+	width: 300px;
+	list-style: none;
+}
+.menu ul li{
+	width: 275px;
+	height: 46px;
+	padding-left: 25px;
+	line-height: 46px;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #666;
+}
+.banner {
+	width: 850px;
+	padding-left: 50px;
+	float: left;
+}
+.search-box{
+	width: 800px;
+	margin-bottom: 12px;
+	overflow: hidden;
+}
+.search {
+	width: 550px;
+	float: left;
+}
+
+.search-box input[type=text]
+{
+	width: 450px;
+	height: 30px;
+	border: 2px solid #F7941E;
+	font-size: 15px;
+	padding: 0 10px;
+}
+.search-box input[type=submit]
+{
+	height: 34px;
+	border: 2px solid #F7941E; 
+	background-color: #F7941E;
+	color: #666;
+}
+.giohang {
+	width: 150px;
+	padding-left: 50px;
+	float: left;
+}
+.giohang a {
+	text-decoration: none;
+	color: #F7941E;
+	font-size: 20px;
+	line-height: 34.55px;
+	display: block;
+	background-image: url(img/giohang.png);
+	background-repeat: no-repeat;
+	width: 100px;
+	padding-left: 50px;
+	height: 34.55px;
+}
+.anime {
+	width: 1200px;
+	padding: 20px 0px;
+}
+.content {
+	width: 1200px;
+}
+.content .sp {
+	width: 1200px;
+	border: 1px solid #CCC;
+	background: #FFF;
+	 }
+.sp h3 {
+	padding: 5px;
+	border-bottom: 1px solid #CCC;
+	color: #333;
+	margin-bottom: 30px;
+	 }
+.sp .book {
+	width: 1170px;
+	padding: 0px 30px;
+	overflow: hidden;
+	padding-bottom: 25px;
+}
+.book1{
+	width: 255px;
+	height: 410px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	color: #666;
+	text-align: center;
+	}
+.book1 span{
+	background: #F7941E;
+	color: #FFF;
+	}
+.sp > a{
+	color: #F7941E;
+	display: inline-block;
+	margin-left: 560px;
+}
+.book .anh {
+	width: 270px;
+	float: left;
+	margin-right: 30px;
+	margin-left: 200px;
+}
+.book .info {
+	width: 400px;
+	height: 364px;
+	float: left;
+	line-height: 1.34;
+	color: #666;
+}
+.info h2 {
+	margin-bottom: 10px;
+}
+.info span {
+	font-size: 18px;
+	margin-bottom: 10px;
+	display: block;
+}
+.info .muahang {
+	border-top : 1px solid #CCC;
+	border-bottom : 1px solid #CCC;
+	padding: 30px 0px;
+}
+.info .ghichu {
+	margin-top: 10px;
+}
+.muahang input[type=text] {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	margin-right: 10px;
+}
+.muahang input[type=submit] {
+	width: 100px;
+	background-color: #F7941E;
+	color: #FFF;
+	border: none;
+	height: 34px;
+}
+.footer{
+	width: 100%;
+	background:#393e41 ;
+}
+.footer-info {
+	position: relative;
+	padding: 30px 0;
+	color: #8f8f8f;
+}
+.footer-logo {
+	padding-top: 50px;
+	text-align: center;
+	position: relative;
+}
+.footer-logo a img{
+	margin-top: -101px;
+}
+form.newsletter {
+	float: left;
+	width: 100%;
+	position: relative;
+	padding-top: 10px;
+}
+.footer-info .title {
+	margin-bottom: 25px;
+	margin-top: 15px;
+	color: black;
+	font-size: 18px;
+}
+
+.title {
+	float: left;
+	position: relative;
+	width: 100%;
+	margin-bottom: 15px;
+	font-size: 24px;
+	color: #2f2f2f;
+	font-weight: 300;
+	padding-bottom: 5px;
+}
+.footer-info p {
+	font-size: 13px;
+}
+.copyright-info {
+	position: relative;
+	overflow: hidden;
+	background: #181818;
+	padding: 15px 0;
+	border-top: 1px solid #303030;
+}
+.copyright-info p {
+	padding-top: 10px;
+	color: #898989;
+	font-size: 13px;
+}
+.social-icon {
+	float: right;
+	padding-top: 4px;
+}
+ul {
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+}
+.social-icon li {
+	display: inline-block;
+	margin-left: 10px;
+}

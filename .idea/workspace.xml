@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06adc20e-5ab4-4410-9f25-a1559f9b03c2" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zuHZyiJ8wRWwG3RPh02rkUSrNU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WomenDay-main" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06adc20e-5ab4-4410-9f25-a1559f9b03c2" name="Default" comment="" />
+      <created>1542206068575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542206068575</updated>
+      <workItem from="1542206070751" duration="555000" />
+      <workItem from="1545054500533" duration="630000" />
+      <workItem from="1545217794215" duration="665000" />
+      <workItem from="1545999654495" duration="1344000" />
+      <workItem from="1547034258834" duration="284000" />
+      <workItem from="1547034625599" duration="2677000" />
+      <workItem from="1547169484284" duration="25000" />
+      <workItem from="1547169909172" duration="1679000" />
+      <workItem from="1547466644747" duration="626000" />
+      <workItem from="1548417827309" duration="49000" />
+      <workItem from="1550057785449" duration="1582000" />
+      <workItem from="1550062862564" duration="599000" />
+      <workItem from="1550228064650" duration="2836000" />
+      <workItem from="1550488888223" duration="5520000" />
+      <workItem from="1550661614178" duration="1335000" />
+      <workItem from="1551137155936" duration="2436000" />
+      <workItem from="1551142685687" duration="631000" />
+      <workItem from="1551168787531" duration="490000" />
+      <workItem from="1551170994061" duration="406000" />
+      <workItem from="1551265460350" duration="134000" />
+      <workItem from="1551270697624" duration="773000" />
+      <workItem from="1553017903438" duration="644000" />
+      <workItem from="1554201027134" duration="434000" />
+      <workItem from="1554303795836" duration="16000" />
+      <workItem from="1554353194880" duration="2441000" />
+      <workItem from="1554966336089" duration="2169000" />
+      <workItem from="1634991115551" duration="682000" />
+      <workItem from="1635224315525" duration="1948000" />
+      <workItem from="1635343583199" duration="2457000" />
+      <workItem from="1635926409278" duration="2388000" />
+      <workItem from="1635941182397" duration="1349000" />
+      <workItem from="1636287118567" duration="1983000" />
+      <workItem from="1636540630019" duration="17000" />
+      <workItem from="1644313656904" duration="29000" />
+      <workItem from="1645449985826" duration="868000" />
+      <workItem from="1645500868362" duration="731000" />
+      <workItem from="1645506162041" duration="629000" />
+      <workItem from="1645580378121" duration="1295000" />
+      <workItem from="1645619127980" duration="1020000" />
+      <workItem from="1645669989827" duration="2691000" />
+      <workItem from="1645688155292" duration="893000" />
+      <workItem from="1645765267527" duration="1304000" />
+      <workItem from="1645843255290" duration="1383000" />
+      <workItem from="1646193263584" duration="242000" />
+      <workItem from="1646193636033" duration="614000" />
+      <workItem from="1646413813238" duration="403000" />
+      <workItem from="1646443564907" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1646443643439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1646443643439" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1645450067405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1645450067405" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1645450074054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1645450074054" />
+  </component>
+</project>
